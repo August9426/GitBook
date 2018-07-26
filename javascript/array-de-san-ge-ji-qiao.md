@@ -58,5 +58,5 @@ Uncaught SyntaxError: Unexpected token ,
 [1, 2, 3]
 ```
 
-
+*摘录自 [Array 的三个技巧](http://www.jstips.co/zh_cn/javascript/3-array-hacks/)*
 

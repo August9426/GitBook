@@ -27,3 +27,4 @@ Object.is(NaN, NaN); // true
 
 ![differences of operators in equality comparisons javascript](../.gitbook/assets/pcyqklc.png)
 
+*摘录自 [为什么你应该在相等比较中使用 Object.is\(\)](http://www.jstips.co/zh_cn/javascript/why-you-should-use-Object.is()-in-equality-comparison/)*
