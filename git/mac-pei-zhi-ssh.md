@@ -1,7 +1,3 @@
----
-description: Mac 配置 ssh 授权 Git
----
-
 # Mac 配置 ssh
 
 ## 配置单个公钥

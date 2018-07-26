@@ -1,7 +1,3 @@
----
-description: 将 Git checkout 的恢复
----
-
 # Git 恢复撤销
 
 ## 1、取消本地修改，恢复到上一次的 `commit`
