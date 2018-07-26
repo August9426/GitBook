@@ -11,3 +11,7 @@
 * [Others](others/README.md)
   * [Google Extensions](others/google_extensions.md)
 
+## Javascript
+
+* [Array 的三个技巧](javascript/array-de-san-ge-ji-qiao.md)
+
