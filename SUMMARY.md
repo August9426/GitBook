@@ -5,6 +5,7 @@
 ## Javascript
 
 * [Array 的三个技巧](javascript/array-de-san-ge-ji-qiao.md)
+* [相等比较 - Object.is\(\)](javascript/xiang-deng-bi-jiao-object.is.md)
 
 ## Git
 
