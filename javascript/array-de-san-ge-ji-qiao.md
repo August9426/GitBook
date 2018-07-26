@@ -1,6 +1,6 @@
 # Array 的三个技巧
 
-在 JavaScript 中 数组（Array）随处可见，使用ECMAScript 6 中的新特性 扩展运算符 你可以做很多很棒事情。在这边文章中，我将为你介绍在编码中有用的3个技巧。
+> 在 JavaScript 中 数组（Array）随处可见，使用ECMAScript 6 中的新特性 扩展运算符 你可以做很多很棒事情。在这边文章中，我将为你介绍在编码中有用的3个技巧。
 
 ### 迭代一个空数组
 
@@ -51,7 +51,7 @@ Uncaught SyntaxError: Unexpected token ,
 
 ### 数组去重
 
-我一直不明白为什么数组不提供一个内置函数可以让我们方便的取到去重以后的值。扩展运算符帮到了我们，使用扩展运算符配合 `Set` _Spread operators are here for the rescue. Use spread operators with the_ `Set` 可以生成一个不重复的数组。
+> 我一直不明白为什么数组不提供一个内置函数可以让我们方便的取到去重以后的值。扩展运算符帮到了我们，使用扩展运算符配合 `Set` _Spread operators are here for the rescue. Use spread operators with the_ `Set` 可以生成一个不重复的数组。
 
 ```javascript
 > const arr = [...new Set([1, 2, 3, 3])];

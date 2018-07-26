@@ -14,7 +14,7 @@ null == undefined // true
 NaN === NaN // false
 ```
 
-ES6 中提供了新的 `Object.is()` 方法，它具有 `===` 的一些特点，而且更好、更精确，在一些特殊案例中表现的很好：
+> ES6 中提供了新的 `Object.is()` 方法，它具有 `===` 的一些特点，而且更好、更精确，在一些特殊案例中表现的很好：
 
 ```javascript
 Object.is(0 , ' '); // false
@@ -23,7 +23,7 @@ Object.is([1], true); // false
 Object.is(NaN, NaN); // true
 ```
 
-但是 Mozilla 团队并不认为 `Object.is` 比 `===` 更加“严格”，他们说我们应该考虑的是这个方法如何处理 NaN, -0 和 +0。
+> 但是 Mozilla 团队并不认为 `Object.is` 比 `===` 更加“严格”，他们说我们应该考虑的是这个方法如何处理 NaN, -0 和 +0。
 
-![differences of operators in equality comparisons javascript](/images/pCyqkLc.png)
+![differences of operators in equality comparisons javascript](../.gitbook/assets/pcyqklc.png)
 
