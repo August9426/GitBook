@@ -20,7 +20,7 @@ git add -A # 提交全部修改
 > git config --list # 查看配置列表
 > ```
 >
-> 配置 sshkey: 参考[Mac 配置 ssh](mac-pei-zhi-ssh.md)
+> 配置 SSH key: 参考 [Mac 配置 ssh](mac-pei-zhi-ssh.md)
 >
 > 建立仓库 repository:
 >
