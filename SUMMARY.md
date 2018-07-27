@@ -10,7 +10,8 @@
 ## Git
 
 * [Mac 配置 ssh](git/mac-pei-zhi-ssh.md)
-* [Git 恢复撤销](git/hui-fu-che-xiao.md)
+* [Git - 常用命令](git/Git常用命令.md)
+* [Git - 恢复撤销](git/hui-fu-che-xiao.md)
 
 ## Mac
 

@@ -81,5 +81,6 @@ IdentityFile ~/.ssh/b_github_rsa
 > ***注意：公私钥命名要对应***
 
 > ssh 的地址更改, 如 `A` 账号的 `repo` 仓库原本的地址是`git@github.com:A/repo.git`，配置了 `ssh` 后，便可以使用`git@a.github.com:A/repo.git`
+
 > 运行 `ssh -T a.github.com` 测试
 
