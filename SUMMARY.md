@@ -1,6 +1,7 @@
 # Table of contents
 
-* [August](README.md)
+* [August](SUMMARY.md)
+* [August](readme.md)
 
 ## Javascript
 
