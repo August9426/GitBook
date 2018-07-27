@@ -7,11 +7,14 @@ description: Learning By Myself
 ## Javascript
 
 * [Array 的三个技巧](javascript/array-de-san-ge-ji-qiao.md)
+* [相等比较 - Object.is\(\)](javascript/xiang-deng-bi-jiao-object.is.md)
+* [ES6 正则拓展](javascript/es6-zheng-ze-tuo-zhan.md)
 
 ## Git
 
 * [Mac 配置 ssh](git/mac-pei-zhi-ssh.md)
-* [Git 恢复撤销](git/hui-fu-che-xiao.md)
+* [Git - 常用命令](git/git-chang-yong-ming-ling.md)
+* [Git - 恢复撤销](git/hui-fu-che-xiao.md)
 
 ## Mac
 
@@ -23,7 +26,7 @@ description: Learning By Myself
 
 ## Linux
 
-* [查看磁盘空间](https://github.com/August-Li/GitBook/tree/65f53f3b04b88ca7bd7ee5465f956d9e4e8756b7/linux/查看磁盘空间.md)
+* [查看磁盘空间](linux/cha-kan-ci-pan-kong-jian.md)
 
 ## Others
 

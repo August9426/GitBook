@@ -1,7 +1,8 @@
-# Table of contents
+---
+description: Learning By Myself
+---
 
-* [August](SUMMARY.md)
-* [August](readme.md)
+# August
 
 ## Javascript
 
