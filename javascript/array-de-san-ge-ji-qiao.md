@@ -2,7 +2,7 @@
 
 > 在 JavaScript 中 数组（Array）随处可见，使用ECMAScript 6 中的新特性 扩展运算符 你可以做很多很棒事情。在这边文章中，我将为你介绍在编码中有用的3个技巧。
 
-### 迭代一个空数组
+## 迭代一个空数组
 
 > JavaScript 中直接创建的数组是松散的，以至于会有很多坑。试着用数组的构造方法创建一个数组，你就会明白我的意思。
 
@@ -27,7 +27,7 @@
 [0, 1, 2, 3]
 ```
 
-### 给方法传一个空参数
+## 给方法传一个空参数
 
 > 如果你想调用一个方法，并不填其中的一个参数时，JavaScript 就会报错。
 
@@ -49,7 +49,7 @@ Uncaught SyntaxError: Unexpected token ,
 > method(...['parameter1', , 'parameter3']); // works!
 ```
 
-### 数组去重
+## 数组去重
 
 > 我一直不明白为什么数组不提供一个内置函数可以让我们方便的取到去重以后的值。扩展运算符帮到了我们，使用扩展运算符配合 `Set` _Spread operators are here for the rescue. Use spread operators with the_ `Set` 可以生成一个不重复的数组。
 
@@ -58,5 +58,5 @@ Uncaught SyntaxError: Unexpected token ,
 [1, 2, 3]
 ```
 
-*摘录自 [Array 的三个技巧](http://www.jstips.co/zh_cn/javascript/3-array-hacks/)*
+_摘录自_ [_Array 的三个技巧_](http://www.jstips.co/zh_cn/javascript/3-array-hacks/)
 
