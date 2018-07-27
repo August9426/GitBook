@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Introduction](SUMMARY.md)
+* [August](SUMMARY.md)
 
 ## Javascript
 
