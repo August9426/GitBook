@@ -1,8 +1,6 @@
----
-description: Learning By Myself
----
+# Table of contents
 
-# August
+* [Introduction](SUMMARY.md)
 
 ## Javascript
 
@@ -26,7 +24,7 @@ description: Learning By Myself
 
 ## Linux
 
-* [查看磁盘空间](linux/cha-kan-ci-pan-kong-jian.md)
+* [Linux查看磁盘空间\(df, du\)](linux/cha-kan-ci-pan-kong-jian.md)
 
 ## Others
 
